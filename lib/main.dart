@@ -8,7 +8,7 @@ void main() {
     "Laravel",
     "PHP"
   ];
-  print("${myList.length}");
+
   runApp(const MyApp());
 }
 
